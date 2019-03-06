@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tv_text"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="~~~~~~置顶数据~~~~~~"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:background="#00ff8c" />
+
+</android.support.constraint.ConstraintLayout>
